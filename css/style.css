@@ -23,7 +23,7 @@ background: url('https://images.pexels.com/photos/1407278/pexels-photo-1407278.j
     border: .01rem solid rgb(253, 253, 253);
     overflow-x: scroll;
     white-space: nowrap;
-    padding: 5rem;
+    padding: 4.5rem;
     border-radius: .1rem;
     user-select: none;
     transform: scale(.98);
